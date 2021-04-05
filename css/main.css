@@ -1,0 +1,10 @@
+html {
+  box-sizing: border-box;
+  font-family: georgia;
+  font-family: "Denk One";
+  line-height: 1.5;
+}
+
+  *, *::before, *::after {
+    box-sizing: inherit;
+  }
