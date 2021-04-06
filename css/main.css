@@ -18,7 +18,7 @@ h2 {
   color: #623b03;
   font-family: "Denk One";
   margin-top: .5em;
-  margin-bottom: 1em;
+  margin-bottom: 1.1em;
 }
 
 img {
@@ -57,14 +57,16 @@ p {
 li {
   border-radius: 8px;
   border-style: solid;
-  padding: .3em .75em 1em 1rem;
+  padding: .3em .75em 1.1em 1rem;
   background-color: #ede2bd;
 }
 
 a {
   border-radius: 8px;
   padding: .6em;
+  padding-right: 10em;
+  padding-bottom: .7em;
   background-color: #623b03;
   color: #fff;
-  margin-bottom: 3em;
+  margin-bottom: 6rem;
 }
