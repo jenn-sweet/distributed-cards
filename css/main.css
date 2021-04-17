@@ -30,7 +30,7 @@ body {
 }
 
 main {
-padding: 1rem;
+  padding: 1rem;
 }
 
 main ol {
@@ -46,7 +46,7 @@ main ol {
 }
 
 p {
-margin: 1.5rem 0;
+  margin: 1.5rem 0;
 }
 
 li {
